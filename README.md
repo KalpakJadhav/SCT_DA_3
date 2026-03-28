@@ -6,7 +6,7 @@ This project involved analyzing an HR Employee Attrition dataset using Microsoft
 The goal was to transform raw employee data into an interactive dashboard that provides insights into employee turnover and key factors influencing attrition. 
 Developed as part of my Data Analyst Internship at SkillCraft Technology.
 
-🎯 Key Objectives
+🎯 Key Objectives:-
 
 Data Preparation:
 Processed and structured the dataset to ensure proper formatting and usability for analysis.
